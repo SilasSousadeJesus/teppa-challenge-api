@@ -4,7 +4,7 @@
 <br>
 <div>
   <h2 align="center"> Clique no link para acessar a aplicação:  </h2>
-  <h3 align="center" >  https://teppa-challenge-client.web.app/login </h3>
+  <h3 align="center" >  https://teppa-challenge-client.web.app </h3>
 </div>
 <br>
 

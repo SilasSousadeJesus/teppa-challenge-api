@@ -46,9 +46,7 @@ public async registration(req: Request, res:Response):Promise<Response> {
            .json({message:"Erro no servidor, tente mais tarde"})
         }
 }
-public async teste(req: Request, res:Response):Promise<Response> {
-    return res.json({message:"testando heroku"})
-}
+
 public async ediUser(req: Request, res:Response):Promise<Response> {
     try {
         const {id} = req.params;
